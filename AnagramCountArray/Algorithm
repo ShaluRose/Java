@@ -1,4 +1,4 @@
-#Approach to find if two Strings are anagrams
+# Approach to find if two Strings are anagrams
 
 1. Pass two Strings str1 and str2 to method isAnagram()
 2. If length of str1 and atr2 are not same, then they are not anagrams
